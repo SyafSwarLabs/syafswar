@@ -1,58 +1,76 @@
-# Hi there, I'm Sayyaf Sewar 👋
-### 🛡️ Cyber Security Specialist & Network Engineer
+🛡️ Cybersecurity Engineering Lab
+
+Cybersecurity | Python | Network Security | Ethical Hacking | Defensive Security
+
+Welcome to my Cybersecurity Engineering Lab!
+
+I'm a cybersecurity student passionate about programming, network security, ethical hacking, and protecting digital systems.
+
+This repository documents my learning journey, practical projects, security experiments, and technical research across different cybersecurity domains.
+
+🎯 Objectives
+
+- Develop practical cybersecurity engineering skills.
+- Learn Python programming and security automation.
+- Understand network protocols and network defense.
+- Study web application security.
+- Practice Linux system administration and hardening.
+- Learn digital forensics and security log analysis.
+- Explore cryptography and secure system design.
+- Document security findings and remediation strategies.
+
+🧰 Technical Areas
+
+- Python Programming
+- Linux Security
+- Network Security
+- Web Application Security
+- Ethical Hacking
+- Defensive Security
+- Digital Forensics
+- Cryptography
+- Security Automation
+- Cloud Security
+
+📂 Repository Structure
+
+- "01-Python-Programming"
+- "02-Network-Security"
+- "03-Linux-Security"
+- "04-Web-Security"
+- "05-Penetration-Testing"
+- "06-Defensive-Security"
+- "07-Digital-Forensics"
+- "08-Cryptography"
+- "09-Security-Automation"
+- "10-Cloud-Security"
+- "11-Security-Reports"
+- "12-Certifications-Notes"
+
+🔬 Projects
+
+This section will include practical projects, security tools, laboratory exercises, and technical reports as they are developed.
+
+📚 Learning Approach
+
+My approach focuses on hands-on learning, secure coding, defensive security, responsible vulnerability research, and continuous improvement.
+
+⚖️ Ethics & Responsible Use
+
+All security testing is conducted only in authorized environments, personal laboratories, or systems for which explicit permission has been granted.
+
+This repository is intended for education, research, and improving cybersecurity.
+
+🚀 Future Goals
+
+- Build practical security tools.
+- Develop network monitoring and log analysis projects.
+- Improve secure programming skills.
+- Document security research and remediation techniques.
+- Build a professional cybersecurity engineering portfolio.
 
 ---
 
-### 👨‍💻 About Me
-- 🔒 Passionate about Network Security, Penetration Testing, and Cyber Defense.
-- 🔭 Currently building tools for network automation and vulnerability assessment.
-- 🛠️ Actively solving challenges on **TryHackMe** and **HackTheBox**.
-- 🎯 Preparing for industry certifications in Cybersecurity & Networking.
-
----
-
-### 🏆 CTF & Platforms
-<p align="left">
-  <!-- إذا كان اسمك في TryHackMe هو Syafswar سيعمل هذا الرابط تلقائياً، وإلا عدله باسمك هناك -->
-  <a href="https://tryhackme.com/p/Syafswar">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Syafswar.png" alt="TryHackMe Badge" height="120" />
-  </a>
-</p>
-
----
-
-### 🛠️ Skills & Technologies
-
-**Networking & Security:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=rapid7&logoColor=white" />
-</p>
-
-**Systems & Scripting:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syafswar&show_icons=true&theme=dark" alt="Sayyaf's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syafswar&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
-### 📬 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+Author: Sayyaf Swar
+Focus: Cybersecurity Engineering & Python Development
+Status: Learning, Building & Securing Systems
