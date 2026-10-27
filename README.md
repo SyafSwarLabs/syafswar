@@ -47,6 +47,27 @@
 
 ---
 
+### 📜 الشهادات والدورات (Certifications & Courses)
+
+#### 🌐 أكاديمية سيسكو للشبكات (Cisco Networking Academy)
+- 🛡️ **مسار الأمن السيبراني:** Junior Cybersecurity Analyst
+- 💻 **دعم أنظمة التشغيل:** Operating Systems Support
+- 🖥️ **أساسيات أنظمة التشغيل:** Operating Systems Basics
+- 🔒 **معلومات دعم أمن السيبراني:** Cybersecurity Support Basics
+- 🌐 **اللغة الإنجليزية:** English for IT 1 (العقبة اللوجستية لنقابة الحاويات 1)
+
+#### 🐧 مؤسسة لينكس ومؤسسة جافاسكربت (The Linux Foundation & OpenJS)
+- ⚡ **JSNAD - OpenJS:** Next.js Application Developer
+- 🏆 **شهادة متقدمة من:** The Linux Foundation
+
+#### 🎓 منصة إيراد لأعداتي
+- 🖥️ **سيرفرات مايكروسوفت:** Microsoft 506 Server
+- 💻 **مبادئ عناصر وبرمجة المضمون:** UURX
+- 📊 **إدارة المشاريع:** Project Management
+- 📜 **شهادة:** PE (CR)
+
+---
+
 ### 📂 المشاريع الأكاديمية والتطبيقية (Featured Projects)
 
 #### 🔹 [Network Vulnerability & Port Scanner]
