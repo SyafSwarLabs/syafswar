@@ -47,32 +47,11 @@
 
 ---
 
-### 📜 الشهادات والدورات (Certifications & Courses)
-
-#### 🌐 أكاديمية سيسكو للشبكات (Cisco Networking Academy)
-- 🛡️ **مسار الأمن السيبراني:** Junior Cybersecurity Analyst
-- 💻 **دعم أنظمة التشغيل:** Operating Systems Support
-- 🖥️ **أساسيات أنظمة التشغيل:** Operating Systems Basics
-- 🔒 **معلومات دعم أمن السيبراني:** Cybersecurity Support Basics
-- 🌐 **اللغة الإنجليزية:** English for IT 1 (العقبة اللوجستية لنقابة الحاويات 1)
-
-#### 🐧 مؤسسة لينكس ومؤسسة جافاسكربت (The Linux Foundation & OpenJS)
-- ⚡ **JSNAD - OpenJS:** Next.js Application Developer
-- 🏆 **شهادة متقدمة من:** The Linux Foundation
-
-#### 🎓 منصة إيراد لأعداتي
-- 🖥️ **سيرفرات مايكروسوفت:** Microsoft 506 Server
-- 💻 **مبادئ عناصر وبرمجة المضمون:** UURX
-- 📊 **إدارة المشاريع:** Project Management
-- 📜 **شهادة:** PE (CR)
-
----
-
 ### 📂 المشاريع الأكاديمية والتطبيقية (Featured Projects)
 
-#### 🔹 [Network Vulnerability & Port Scanner]
-- **الوصف:** أداة فحص للمنافذ والشبكات مبنية بلغة Python لاكتشاف المنافذ المفتوحة وتحديد الخدمات النشطة وتحليل مستوى الخطورة.
-- **التقنيات:** `Python`, `Sockets`, `Nmap Engine`.
+#### 🔹 [CyberSentinel AI - Network Analyzer]
+- **الوصف:** أداة ذكية متكاملة ومتقدمة لفحص الثغرات، تحليل الحزم والشبكات، وإنشاء تقارير الأمان السيبراني.
+- **التقنيات:** `Python`, `CustomTkinter`, `Nmap`, `Scapy`.
 
 #### 🔹 [Secure Packet Sniffer & Traffic Analyzer]
 - **الوصف:** برنامج التقاط وتحليل حزم البيانات في الشبكة لمراقبة حركة المرور واكتشاف محاولات الهجمات غير الطبيعية (مثل هجمات ARP Spoofing).
@@ -84,7 +63,21 @@
 
 #### 🔹 [Classical & Modern Cryptography Toolkit]
 - **الوصف:** تطبيق لأتمتة عمليات التشفير وفك التشفير لمجموعة من الخوارزميات الكلاسيكية والحديثة (AES, DES, Vigenère, Hill Cipher).
-- **التقنيات:** `C++`, `Python`, `Cryptography Libraries`.
+- **التقنيات:** `C++`, `Python`, `Tkinter`.
+
+---
+
+### 📜 الشهادات والدورات (Certifications & Courses)
+
+<div align="center">
+
+| الجهة / المنصة | اسم الشهادة أو المسار |
+| :--- | :--- |
+| **🌐 أكاديمية سيسكو (Cisco Networking Academy)** | • مسار الأمن السيبراني (<br>• دعم أنظمة التشغيل (Operating Systems Support)<br>• أساسيات أنظمة التشغيل (Operating Systems Basics)<br>• معلومات دعم أمن السيبراني (Cybersecurity Support Basics)<br>• اللغة الإنجليزية (<br> |
+| **🐧 مؤسسة لينكس وجافاسكربت (The Linux Foundation & OpenJS)** | • تطوير تطبيقات Next.js (<br>• شهادة متقدمة في Linux Foundation |
+| **🎓 منصة إيراد** | • سيرفرات مايكروسوفت (Microsoft 506 Server)<br>• مبادئ عناصر وبرمجة المضمون (UURX)<br>• إدارة المشاريع (Project Management)<br>• شهادة PE (CR) |
+
+</div>
 
 ---
 
